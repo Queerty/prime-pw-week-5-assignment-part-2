@@ -1,0 +1,25 @@
+.assignmentTitle{
+  background-color: #032B43;
+  text-align: center;
+  color: #FFBA08;
+  font-family: monospace;
+  padding: 1.5em;
+  margin-bottom: 0;
+}
+
+.shopName{
+  color: #C0D8EC;
+  text-align: center;
+  font-family: fantasy;
+  background-color: #136F63;
+  padding: 1.5em;
+  margin-top: 0;
+}
+.main{
+  background-color: LightGrey;
+  padding: 1em;
+}
+body{
+  background-image: url("record.png");
+  margin: 0;
+}
