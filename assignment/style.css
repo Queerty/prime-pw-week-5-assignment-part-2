@@ -1,25 +1,32 @@
 .assignmentTitle{
-  background-color: #032B43;
-  text-align: center;
-  color: #FFBA08;
-  font-family: monospace;
+  background-color: #212738;
   padding: 1.5em;
   margin-bottom: 0;
 }
-
-.shopName{
-  color: #C0D8EC;
+.week5{
   text-align: center;
-  font-family: fantasy;
-  background-color: #136F63;
+  color: #F97068;
+  font-family: sans-serif;
+  font-weight: 400;
+}
+.shopName{
+  color: #EDF2EF;
+  text-align: center;
+  font-family: courier new;
+  background-color: #212738;
   padding: 1.5em;
   margin-top: 0;
+  border-top: 20px solid #57C4E5;
+  border-bottom: 20px solid #D1D646;
+  font-weight: lighter;
 }
 .main{
-  background-color: LightGrey;
+  background-color: #EDF2EF;
   padding: 1em;
 }
 body{
   background-image: url("record.png");
+  background-repeat: repeat;
+  background-color: #F7F8DE;
   margin: 0;
 }
